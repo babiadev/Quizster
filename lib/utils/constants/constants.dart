@@ -10,7 +10,7 @@ export 'sound_constants.dart';
 export 'string_labels.dart';
 
 const appName = 'Quizster';
-const packageName = 'in.quizster.app';
+const packageName = 'com.babia.to';
 
 /// Add your database url
 // NOTE: make sure to not add '/' at the end of url

@@ -9,7 +9,7 @@
       "client_info": {
         "mobilesdk_app_id": "1:962213788968:android:f600a0ae3577e50a01e41d",
         "android_client_info": {
-          "package_name": "in.quizster.app"
+          "package_name": "com.babia.to"
         }
       },
       "oauth_client": [
@@ -17,7 +17,7 @@
           "client_id": "962213788968-4krmgd27rs8op1lke9uqj9cevbm0ltri.apps.googleusercontent.com",
           "client_type": 1,
           "android_info": {
-            "package_name": "in.quizster.app",
+            "package_name": "com.babia.to",
             "certificate_hash": "e66696dbee8567fcf89ecf5b0f64692184a9f61c"
           }
         },
@@ -25,7 +25,7 @@
           "client_id": "962213788968-o3420uh7pdos8r055hsfkqoalqdbsg89.apps.googleusercontent.com",
           "client_type": 1,
           "android_info": {
-            "package_name": "in.quizster.app",
+            "package_name": "com.babia.to",
             "certificate_hash": "5095ab50ab7ecf9890351c1c7ec7dce6ddfc7eab"
           }
         },
