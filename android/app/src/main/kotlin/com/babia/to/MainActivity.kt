@@ -1,4 +1,4 @@
-package in.quizster.app
+package com.babia.to
 
 import io.flutter.embedding.android.FlutterActivity
 
