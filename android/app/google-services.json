@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "962213788968",
+    "project_id": "quizster-app",
+    "storage_bucket": "quizster-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:962213788968:android:f600a0ae3577e50a01e41d",
+        "android_client_info": {
+          "package_name": "in.quizster.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "962213788968-4krmgd27rs8op1lke9uqj9cevbm0ltri.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "in.quizster.app",
+            "certificate_hash": "e66696dbee8567fcf89ecf5b0f64692184a9f61c"
+          }
+        },
+        {
+          "client_id": "962213788968-o3420uh7pdos8r055hsfkqoalqdbsg89.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "in.quizster.app",
+            "certificate_hash": "5095ab50ab7ecf9890351c1c7ec7dce6ddfc7eab"
+          }
+        },
+        {
+          "client_id": "962213788968-npgddnfgta2eqbjgolfgdfk16ji3l719.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBiR0W7aB5PKN6i2zsNvSuJ_xBS5g6qj-o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "962213788968-npgddnfgta2eqbjgolfgdfk16ji3l719.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
